@@ -7,9 +7,11 @@ int main()
 {
     std::cout << "Hello World!\n";
 
-    std::cout << "Git Test\n";
+    std::cout << "Git Test!\n";
 
-    std::cout << "Git Test2\n";
+    std::cout << "Git Test2!\n";
+
+    std::cout << "プレイヤーの移動追加!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
